@@ -1029,9 +1029,7 @@ footer h1{
 @media screen and (max-width: 700px){
 
 
-    .back-vid{
-        display: none;
-    }
+    
 
     body{
         background-color: black;
@@ -1332,6 +1330,7 @@ footer h1{
 
 
 }
+
 
 
 
