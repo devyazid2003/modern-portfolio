@@ -1028,16 +1028,6 @@ footer h1{
 
 @media screen and (max-width: 700px){
 
-.back-vid{
-    display:none;
-}
-
-body{
-    background:url('img/background.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
     header{
         position: fixed;
@@ -1335,6 +1325,7 @@ body{
 
 
 }
+
 
 
 
